@@ -54,14 +54,6 @@ Soy una persona organizada, proactiva y responsable, con una pasión intensa por
  ![Java Swing](https://img.shields.io/badge/Java_Swing-%2307405e.svg?style=for-the-badge&logo=java&logoColor=white)
  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
-- **Tecnologías Utilizadas:** 
-![ERP Software](https://img.shields.io/badge/ERP_Software-%2307405e.svg?style=for-the-badge&logo=erp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
 ## 📊 Estado de los Proyectos
 
 ![Project 1 Status](https://img.shields.io/badge/Project_1-Completed-brightgreen)
