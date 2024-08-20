@@ -16,10 +16,10 @@ Soy una persona organizada, proactiva y responsable, con una pasión intensa por
 
 ### Desarrollador Full-Stack en Senti Consulting (Prácticas)
 **Marzo 2024 - Junio 2024**
-- Desarrollo de funcionalidades y servicios.
-- Gestión de bases de datos.
-- Colaboración con equipos multidisciplinares.
-- Despliegue y monitoreo de aplicaciones.
+- Participé en el desarrollo de aplicaciones web utilizando Laravel, HTML, CSS y JavaScript
+- Creación y gestión de API RESTful para la integración de servicios, utilizando bases de datos SQL.
+- Apliqué conocimientos de arquitectura en la nube para desarrollar aplicaciones escalables y seguras, utilizando AWS
+- Uso de sistemas de control de versiones (Github/GitLab).
 
 ### Técnico de Soporte Informático en IDESIE (Prácticas)
 **Marzo 2022 - Junio 2022**
